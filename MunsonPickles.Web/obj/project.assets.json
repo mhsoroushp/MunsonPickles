@@ -3690,11 +3690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
+      "projectUniqueName": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
       "projectName": "MunsonPickles.Web",
-      "projectPath": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
+      "projectPath": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
       "packagesPath": "/Users/soroush/.nuget/packages/",
-      "outputPath": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/",
+      "outputPath": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/soroush/.nuget/NuGet/NuGet.Config"

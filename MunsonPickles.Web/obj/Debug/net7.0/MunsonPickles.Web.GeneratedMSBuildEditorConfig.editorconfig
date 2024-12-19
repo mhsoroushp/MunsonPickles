@@ -9,57 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MunsonPickles.Web
 build_property.RootNamespace = MunsonPickles.Web
-build_property.ProjectDir = /Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/
+build_property.ProjectDir = /Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web
+build_property.MSBuildProjectDirectory = /Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/App.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Components/ProductList.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Components/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Qcm9kdWN0TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Components/ProductReviews.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Components/ProductReviews.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Qcm9kdWN0UmV2aWV3cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Components/WriteReview.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Components/WriteReview.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Xcml0ZVJldmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Pages/Index.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Pages/ProductDetails.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Pages/ProductDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Pages/ReviewDetails.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Pages/ReviewDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmV2aWV3RGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/_Imports.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Shared/MainLayout.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-td9hp4x4fz
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Shared/NavMenu.razor]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-70hnn5c038
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Pages/Error.cshtml]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/Pages/_Host.cshtml]
+[/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

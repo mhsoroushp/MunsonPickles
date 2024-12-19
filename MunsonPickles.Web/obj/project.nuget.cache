@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9VCFyCMkWYw=",
+  "dgSpecHash": "Gbf6RZ6DoJ8=",
   "success": true,
-  "projectFilePath": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
+  "projectFilePath": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
   "expectedPackageFiles": [
     "/Users/soroush/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/soroush/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

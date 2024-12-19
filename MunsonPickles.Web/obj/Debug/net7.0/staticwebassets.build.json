@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PiZCzpt4Ra1DvlJJufhMBqpJ0IAU3s0RvkYX6ycqhnk=",
+  "Hash": "jkSTwIQr47uNBl7d4wBjJBhcyz7uwT5NwtHG17O9x9A=",
   "Source": "MunsonPickles.Web",
   "BasePath": "_content/MunsonPickles.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "MunsonPickles.Web/wwwroot",
       "Source": "MunsonPickles.Web",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "/Users/soroush/.nuget/packages/microsoft.aspnetcore.components.quickgrid/0.1.0-alpha.22351.1/staticwebassets/QuickGrid.razor.js"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/bundle/MunsonPickles.Web.styles.css",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/bundle/MunsonPickles.Web.styles.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "MunsonPickles.Web.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/bundle/MunsonPickles.Web.styles.css"
+      "OriginalItemSpec": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/bundle/MunsonPickles.Web.styles.css"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/projectbundle/MunsonPickles.Web.bundle.scp.css",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/projectbundle/MunsonPickles.Web.bundle.scp.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "MunsonPickles.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/projectbundle/MunsonPickles.Web.bundle.scp.css"
+      "OriginalItemSpec": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/obj/Debug/net7.0/scopedcss/projectbundle/MunsonPickles.Web.bundle.scp.css"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/open-iconic/README.md",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/css/site.css",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/css/site.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/favicon.png",
+      "Identity": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/favicon.png",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/wwwroot/",
+      "ContentRoot": "/Users/soroush/workspace/azurepipline/container-test1/MunsonPickles/MunsonPickles.Web/wwwroot/",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
