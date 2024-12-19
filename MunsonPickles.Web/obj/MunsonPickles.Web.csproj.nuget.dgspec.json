@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
+        "projectName": "MunsonPickles.Web",
+        "projectPath": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/MunsonPickles.Web.csproj",
+        "packagesPath": "/Users/soroush/.nuget/packages/",
+        "outputPath": "/Users/soroush/workspace/azurepipline/beginner-dotnet-on-azure/3-blob-storage/MunsonPickles/MunsonPickles.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/soroush/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.14.1, )"
+            },
+            "Microsoft.AspNetCore.Components.QuickGrid": {
+              "target": "Package",
+              "version": "[0.1.0-alpha.22351.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
