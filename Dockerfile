@@ -19,4 +19,8 @@ RUN dotnet publish "MunsonPickles.Web.csproj" -c Release -o /app/publish /p:UseA
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
+# Set environment to Production
+ENV ASPNETCORE_ENVIRONMENT=Production
+
 ENTRYPOINT ["dotnet", "MunsonPickles.Web.dll"]
